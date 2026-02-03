@@ -1,4 +1,8 @@
-# React + Vite
+# LogisticPro
+
+This site can handle all the logistics you all need.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
